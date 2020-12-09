@@ -1,1 +1,1 @@
-# wc-paygeo-premium
+# wc-woopricely
